@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Brush.unity
+    guid: 71411ad91a1a5c9428af58c817b04842
+  - enabled: 0
+    path: Assets/Scenes/Brush0.unity
+    guid: 133b6e33c0c4b46d589d4e0829712134
+  - enabled: 0
+    path: Assets/Scenes/Brush1.unity
+    guid: fa4e11a2e59544b2187357b7abdd1add
+  - enabled: 0
+    path: Assets/Scenes/Brush2.unity
+    guid: 27b7ccef82a3540d5af3030b9efef776
+  - enabled: 0
+    path: Assets/Scenes/Brush3.unity
+    guid: 42394c56773c84d4d93c88d63d9ae565
+  - enabled: 0
+    path: Assets/Scenes/Brush4.unity
+    guid: 40a0ab08937ab4cd18bb01fc27a0d8aa
+  - enabled: 0
+    path: Assets/Scenes/Brush5.unity
+    guid: ce2ee7881cda8463c976af2675b9805d
+  - enabled: 0
+    path: Assets/Scenes/Brush6.unity
+    guid: 1264e1a3ca9014384a57de388a2aa9a3
+  - enabled: 0
+    path: Assets/Scenes/Brush7.unity
+    guid: d20bb2123fe0d483999238623801dfc2
+  - enabled: 0
+    path: Assets/Scenes/myBrush.unity
+    guid: 2ac879203523d40558f4163911fdce6a
+  - enabled: 0
+    path: Assets/Scenes/BrushwGrb.unity
+    guid: 72c87da3b51634c2ab0e4ef18b3e4b60
+  - enabled: 0
+    path: Assets/Scenes/SetUp.unity
+    guid: 2aa5c33ec86cc4ed5b25dad76f826769
+  - enabled: 1
+    path: Assets/NewTeleport.unity
+    guid: e9769aca44aa34a5cafd32537a9ff724
+  - enabled: 0
+    path: Assets/Scenes/tryUx.unity
+    guid: 315e92e4f000c44c2a998f46b1626663
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 145a98826492f40b9a4a116b354d6bae,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e10453c17c74a4ed1b9010931481d25f,
+      type: 2}
