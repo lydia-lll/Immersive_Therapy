@@ -5,7 +5,7 @@
 ### Project Preview
 <img width="545" alt="Screenshot 2023-05-13 at 9 01 26 PM" src="https://github.com/lydia-lll/Immersive_Therapy/assets/86812182/e9de1fac-b0a1-4225-bc12-75c81e2e9a22"> 
 
-![drawheart](https://github.com/lydia-lll/Immersive_Therapy/assets/86812182/e27bf510-109f-48b0-9923-9dd9a7772e9c)
+<img width="545" alt="drawheart" src="https://github.com/lydia-lll/Immersive_Therapy/assets/86812182/e27bf510-109f-48b0-9923-9dd9a7772e9c"> 
 
 ### Introduction
 
